@@ -2,7 +2,7 @@ import React from "react";
 
 const NavBar = () => {
   return (
-    <nav className="flex items-center justify-between work p-6">
+    <nav className="flex items-center justify-between work py-8">
       <div className="nav-item">
         <h2 className="font-semibold text-3xl">Book Vibe</h2>
       </div>
