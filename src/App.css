@@ -1,1 +1,13 @@
 @import "tailwindcss";
+
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display");
+
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans");
+
+.playfair {
+  font-family: "Playfair Display", serif;
+}
+
+.work {
+  font-family: "Work Sans", sans-serif;
+}
