@@ -2,6 +2,7 @@ import React, { createContext } from "react";
 import Banner from "../../Pages/Banner/Banner";
 import Books from "../../Pages/Books/Books";
 import { useLoaderData } from "react-router";
+
 export const DataContext = createContext([]);
 
 const Home = () => {

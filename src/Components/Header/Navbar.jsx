@@ -9,7 +9,7 @@ const NavBar = () => {
       <div className="nav-item">
         <ul className="flex justify-center items-center gap-4">
           <li className="font-bold border border-[#43ff64d9] px-4 py-3 rounded-lg text-[#43ff64d9]">
-            <a href="#">Home</a>
+            <a href="/">Home</a>
           </li>
           <li className="px-4 py-3 rounded-lg text-[#131313cc]">
             <a href="#">Listed Books</a>

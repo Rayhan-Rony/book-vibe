@@ -4,7 +4,7 @@ import Book from "../Book/Book";
 
 const Books = () => {
   const booksData = useContext(DataContext);
-  console.log(booksData);
+  // console.log(booksData);
   return (
     <div className="mt-24">
       <h2 className="font-semibold text-4xl text-center playfair mb-9">
